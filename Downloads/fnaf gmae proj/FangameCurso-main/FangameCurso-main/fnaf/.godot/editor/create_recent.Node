@@ -1,0 +1,14 @@
+Button
+Sprite2D
+Label
+Timer
+Node
+CanvasLayer
+Control
+Node2D
+AnimatedSprite2D
+TextureButton
+WorldEnvironment
+ShaderGlobalsOverride
+AudioStreamPlayer
+CollisionShape2D

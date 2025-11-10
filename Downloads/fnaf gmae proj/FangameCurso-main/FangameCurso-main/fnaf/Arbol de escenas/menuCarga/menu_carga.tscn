@@ -1,0 +1,22 @@
+[gd_scene load_steps=4 format=3 uid="uid://b65ar32unxi28"]
+
+[ext_resource type="Texture2D" uid="uid://bmc8x5gc13t8y" path="res://Arbol de escenas/menuCarga/asets/2.5-START_TO_END/NEWSPAPER.png" id="1_rvkj0"]
+[ext_resource type="Script" uid="uid://c72lg2rch7l7a" path="res://Arbol de escenas/menuCarga/menu_carga.gd" id="1_u3n8b"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_u3n8b"]
+
+[node name="menu_carga" type="Node2D"]
+script = ExtResource("1_u3n8b")
+
+[node name="Newspaper" type="Sprite2D" parent="."]
+position = Vector2(578, 325.5)
+scale = Vector2(0.9, 0.904167)
+texture = ExtResource("1_rvkj0")
+
+[node name="new_game" type="Button" parent="."]
+offset_right = 1159.0
+offset_bottom = 652.0
+icon = SubResource("CompressedTexture2D_u3n8b")
+
+[connection signal="button_down" from="new_game" to="." method="_on_new_game_button_down"]
+[connection signal="pressed" from="new_game" to="." method="_on_new_game_pressed"]
