@@ -1,8 +1,11 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1762808867
+::res://::1762808979
 b7c46d56-0398-4a3a-8f31-fb82014ae0f3-removebg-preview.png::CompressedTexture2D::4836415664004036470::1762201393::1762201394::1::::<><><>0<>0<>3b0fd8acbfc937719528130d1af906f3<>res://.godot/imported/b7c46d56-0398-4a3a-8f31-fb82014ae0f3-removebg-preview.png-b72de79b819fc553538c0bcf4384c29c.ctex::
 default_bus_layout.tres::AudioBusLayout::4308947249710146037::1711693259::0::1::::<><><>0<>0<><>::
-export_presets.cfg::TextFile::-1::1762283682::0::1::::<><><>0<>0<><>::
+docs.apple-touch-icon.png::CompressedTexture2D::5920615022998708112::1762808979::1762809355::1::::<><><>0<>0<>b6ef667e33c79dfad5e1de2e6c0d350f<>res://.godot/imported/docs.apple-touch-icon.png-4eb4f591a366f2f75f46352482e39d51.ctex::
+docs.icon.png::CompressedTexture2D::4168638023960192390::1762808979::1762809355::1::::<><><>0<>0<>4e9d17de9efd314135b772956e09e96a<>res://.godot/imported/docs.icon.png-821acb2f934e7a0db9ed4f23408e1503.ctex::
+docs.png::CompressedTexture2D::6950296357656804431::1762808979::1762809356::1::::<><><>0<>0<>1b45658e485d12190b1b06c71970ea52<>res://.godot/imported/docs.png-8e027aebf604656c0fb193ddfa575cd1.ctex::
+export_presets.cfg::TextFile::-1::1762808979::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::4639077752786022990::1711693259::1711693259::1::::<><><>0<>0<>2956c8a1613d32608ed8b4851ece7ba0<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 Menu pic.jpg::CompressedTexture2D::1870418629950517755::1762202158::1762202159::1::::<><><>0<>0<>c1ded4da604f4b92926c295bfcf84514<>res://.godot/imported/Menu pic.jpg-d0729f095bf644002fae6feebeb2ec95.ctex::
 ::res://Arbol de escenas/::1711693259
